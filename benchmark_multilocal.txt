@@ -1,0 +1,13 @@
+🚀 Starting Load Test with Monitoring
+   Requests: 200 | Concurrency: 10
+--------------------------------------------------
+
+📊 --- Performance Results ---
+⚡ Throughput:     112.40 req/sec
+⏱️  Avg Latency:    86.73 ms
+⏱️  P99 Latency:    170.62 ms
+
+🖥️  --- System Resources (Host) ---
+🔥 CPU Usage:      Avg 74.9% | Max 100.0%
+💾 RAM Usage:      Avg 71.0%
+--------------------------------------------------
